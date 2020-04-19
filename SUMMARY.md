@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Worldedit Guide](README.md)
+* [WorldEdit Guide](README.md)
 
 ## 01 - The basics
 
