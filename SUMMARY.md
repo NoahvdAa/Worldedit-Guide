@@ -5,5 +5,5 @@
 ## 01 - The basics
 
 * [Selecting an area](01-the-basics/selecting-an-area.md)
-* [Changing your selection's size](01-the-basics/changing-your-selections-size.md)
+* [Changing the size of your selection](01-the-basics/changing-the-size-of-your-selection.md)
 
