@@ -26,11 +26,13 @@ Another easy way of selecting an area is by typing the commands **//pos1** and *
 
 The commands **//hpos1** and **//hpos2** allow you to select an area based on which block you are pointing at with your cursor.
 
-![Selecting an area with the //hpos1 and //hpos2 commands.](../.gitbook/assets/1w482ub7%20%281%29.gif)
+![Selecting an area with the //hpos1 and //hpos2 commands.](../.gitbook/assets/1w482ub7.gif)
 
 ### Deselecting
 
 If you want to clear your selection, simply type **//desel** or **//sel** in chat.
 
-![Deselecting an area with the //desel command.](../.gitbook/assets/iqbunty3un.gif)
+![](../.gitbook/assets/iqbunty3un.gif)
+
+
 
