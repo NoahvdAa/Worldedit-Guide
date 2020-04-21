@@ -32,7 +32,7 @@ The commands **//hpos1** and **//hpos2** allow you to select an area based on wh
 
 If you want to clear your selection, simply type **//desel** or **//sel** in chat.
 
-![](../.gitbook/assets/iqbunty3un.gif)
+![Clearing your selection with the //desel command.](../.gitbook/assets/iqbunty3un.gif)
 
 
 
